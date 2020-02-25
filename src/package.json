@@ -1,0 +1,13 @@
+{
+  "name": "list-with-modal",
+  "version": "1.0.0",
+  "description": "A Component for individual \"add\" Component in the Modal",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-flip-move": "2.9.11",
+    "react-modal": "1.7.7"
+  }
+}
